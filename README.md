@@ -23,7 +23,7 @@
 
 ### 📈 Atividade Geral
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriB4rbosa&theme=midnight-purple&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriB4rbosa&bg_color=0D1117&color=008080&line=00C58E&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
